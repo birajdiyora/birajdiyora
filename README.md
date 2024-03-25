@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Biraj
+<h6>👋 Hi, I’m Biraj<h6>
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate with other Programers and Learners
