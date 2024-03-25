@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Biraj Diyora</h1>
+<h1 align="center">Hi 👋 I'm Biraj</h1>
 <h3 align="center">A passionate programer</h3>
 
 - 🌱 I’m currently learning **android development**
 
-- 👯 I’m looking to collaborate with **other Programers and Learners**
+- 🚀 I love creating **innovative solutions and exploring new technologies**
 
 - 💬 Ask me about **Java,PHP,Kotlin,MongoDb**
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@diyorabiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@diyorabiraj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/biraj diyora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biraj diyora" height="30" width="40" /></a>
+<a href="https://twitter.com/@diyorabiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@diyorabiraj" height="30" width="40" /></a>
 <a href="https://instagram.com/biraj_diyora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biraj_diyora" height="30" width="40" /></a>
 </p>
 
